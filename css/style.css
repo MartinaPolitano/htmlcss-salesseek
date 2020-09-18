@@ -211,3 +211,12 @@ width: auto;
 height: auto;
 text-align: center;
 }
+
+/*MAIN*/
+
+.main {
+background-color: black;
+width: 200px;
+height: 300px;
+
+}
